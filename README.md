@@ -1,4 +1,4 @@
-elmerlastdrager.github.io
+elmerlastdrager.lastdrager.com
 =========================
 
 My personal website
