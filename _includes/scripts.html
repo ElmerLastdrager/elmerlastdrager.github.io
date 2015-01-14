@@ -1,0 +1,12 @@
+<!-- Little script to convert contact address to clickable link (c) Elmer Lastdrager  -->	
+<script language="javascript">
+   jQuery.fn.mailto = function() {
+	   return this.each(function(){
+		   var email = $(this).html().replace(/\s*\(.+\)\s*/, "@");
+		   $(this).before('<a href="mailto:' + email + '" rel="nofollow" title="Email ' + email + '">' + email + '</a>').remove();
+	   });
+   };
+   $(function(){
+     $('a[href^="mailto:"]').mailto();
+   });
+</script>

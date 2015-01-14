@@ -2,62 +2,68 @@
 layout: default
 ---
 
-[Solo](http://solo.chibi.io) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+<div style="background-image: url('elmer.jpg'); height: 300px; width: 200px; float:right; margin-left: 10px; margin-bottom: 10px; border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius: 5px;-khtml-border-radius: 5px;"> </div>
 
-<iframe src="http://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
+Elmer Lastdrager is a PhD student at the [Services, Cyber Security and Safety](http://scs.ewi.utwente.nl/) group at the University of Twente. He is currently working in the field of cybercrime science, focussing on the prevention of phishing attacks. Elmer Lastdrager received a Bachelor of Science in Computer Science (2009) and a Master of Science in Computer Security (2011) from the University of Twente.
 
-Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
 
-## Solo is useful if...
+## Contact Information
 
-* You want to create an "about me" page from a single markdown file and host it under a custom domain name.
-* You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
-* You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
-* You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
+Room:	Zilverling 4047
 
-This page itself is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
+Phone:	+31 53 489 4281
 
-## Usage
+Email:	[e.e.h.lastdrager (mail) utwente.nl](mailto:e.e.h.lastdrager (mail) utwente.nl)
 
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/chibicode/solo). Start Jekyll and you should see this page up and running.
+PGP key:	[Download](pgpkey.asc)
 
-**The main file you'll be editing is `index.md`**. This becomes the content for the page.
+PGP fingerprint: 479A 9A14 EF96 B639 492C &nbsp; 415D 9068 4E16 542D BBBE
 
-### Other Files
 
-* Edit `_config.yml` to change the site's title and description.
-* Edit `_includes/head.html` to add custom code to `<head>`.
-* Edit `_includes/scripts.html` to add custom code before `</body>`.
-* Edit `CNAME` to host on a custom domain.
-* Edit `README.md` before pushing your code.
+## Project: Social-Technical Research on Phishing (STROP)
 
-### Don't use `<h1>` tags
+Phishing is used by offenders to obtain credentials from unsuspecting users. Fake websites, fake emails and even phone-calls are used as a modus operandi. With these credentials, money is stolen, or services are used and billed to the victim's account. Even though the share of malware attacks is rising, phishing attacks remain a commonly used method of fraud.
 
-Wthin `index.md`, do not use `<h1>` tags - `<h1>` is reserved for the site title.
+The aim of the project is to identify characteristics of victims of phishing attacks and characteristics of offenders, evaluate anti-phishing measures, and propose new methods of reducing the victimisation by offenders using the phishing modus operandi. Whereas currently most research uses either a technical approach (e.g. implement a new protocol) or a social approach (how likely are people to become a victim), this project intends to develop a combined socio-technical approach. This approach includes establishing a theoretical framework and putting phishing in the context of this framework.
 
-### Supported Tags
+## Publications
 
-Solo supports lists, `<hr>`s, `<table>`s,
+Lastdrager, E.E.H. (2014) 
+[Achieving a Consensual Definition of Phishing Based on a Systematic Review of the Literature](http://www.crimesciencejournal.com/content/3/1/9).
+Crime Science, 3. 9:1-9:16.
+DOI 10.1186/s40163-014-0009-y.
+ISSN 2193-7680
 
-> blockquotes, and...
+Lastdrager, E.E.H. and Montoya Morales, A.L. and Hartel, P.H. and Junger, M. (2013)
+[Applying the Lost-Letter Technique to Assess IT Risk Behaviour](http://dx.doi.org/10.1109/STAST.2013.15). 
+In: Proceedings of the 3rd Workshop on Socio-Technical Aspects in Security and Trust, 29 Jun 2013, New Orleans, USA. pp. 2-9. IEEE Computer Society.
+DOI 10.1186/s40163-014-0009-y.
+ISBN 978-0-7695-5065-7
 
-~~~html
-<pre>code blocks with syntax highlighting.</pre>
-~~~
+Lastdrager, E.E.H. (2011)
+[Securing Patient Information in Medical Databases](http://eprints.eemcs.utwente.nl/20454/).
+Master's thesis, University of Twente.
 
-### Keep Solo up to date
+Lastdrager, E.E.H. and Pras, A. (2009)
+[Consistency of Network Traffic Repositories: An Overview](http://dx.doi.org/10.1007/978-3-642-02627-0_15).
+In: Proceedings of the Third International Conference on Autonomous Infrastructure, Management and Security (AIMS 2009), 30 Jun - 02 Jul 2009, Enschede, The Netherlands. 
+pp. 173-178. 
+Lecture Notes in Computer Science 5637.
+Springer Verlag.
+ISSN 0302-9743
+ISBN 978-3-642-02626-3
 
-Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fork) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo) to keep Solo up to date.
+Lastdrager, E.E.H. and Pras, A. (2009)
+[Consistency analysis of network traffic repositories](http://dx.doi.org/10.1007/978-3-642-03700-9_23).
+In: The Internet of the Future, 15th Open European Summer School and IFIP TC6.6 Workshop, EUNICE 2009, 7-9 Sep 2009, Barcelona, Spain. 
+pp. 217-226.
+Lecture Notes in Computer Science 5733.
+Springer Verlag.
+ISSN 0302-9743
+ISBN 978-3-642-03699-6
 
-## Author
 
-Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)).
 
-![Shu Uesugi](http://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
 
-### License
 
-[MIT License](http://chibicode.mit-license.org/)
 
-<div class="github-fork-ribbon-wrapper right fixed" style="width: 150px;height: 150px;position: fixed;overflow: hidden;top: 0;z-index: 9999;pointer-events: none;right: 0;"><div class="github-fork-ribbon" style="position: absolute;padding: 2px 0;background-color: #333;background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));-webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);-moz-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);z-index: 9999;pointer-events: auto;top: 42px;right: -43px;-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);transform: rotate(45deg);"><a href="https://github.com/chibicode/solo" style="font: 700 13px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;color: #fff;text-decoration: none;text-shadow: 0 -1px rgba(0, 0, 0, 0.5);text-align: center;width: 200px;line-height: 20px;display: inline-block;padding: 2px 0;border-width: 1px 0;border-style: dotted;border-color: rgba(255, 255, 255, 0.7);">Fork me on GitHub</a></div></div>

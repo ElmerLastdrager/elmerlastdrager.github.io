@@ -1,4 +1,4 @@
-elmerlastdrager.lastdrager.com
+elmer.lastdrager.com
 =========================
 
-My personal website
+The source code of my personal website.
