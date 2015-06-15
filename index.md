@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="background-image: url('elmer.jpg'); height: 300px; width: 200px; float:right; margin-left: 10px; margin-bottom: 10px; border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius: 5px;-khtml-border-radius: 5px;"> </div>
+<div style="background-image: url('elmer.jpg'); height: 300px; width: 200px; float:right; margin-left: 10px; margin-bottom: 10px; margin-right: 10px; border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius: 5px;-khtml-border-radius: 5px;"> </div>
 
 Elmer Lastdrager is a PhD student at the [Services, Cyber Security and Safety](http://scs.ewi.utwente.nl/) group at the University of Twente. He is currently working in the field of cybercrime science, focussing on the prevention of phishing attacks. Elmer Lastdrager received a Bachelor of Science in Computer Science (2009) and a Master of Science in Computer Security (2011) from the University of Twente.
 
@@ -27,6 +27,11 @@ Phishing is used by offenders to obtain credentials from unsuspecting users. Fak
 The aim of the project is to identify characteristics of victims of phishing attacks and characteristics of offenders, evaluate anti-phishing measures, and propose new methods of reducing the victimisation by offenders using the phishing modus operandi. Whereas currently most research uses either a technical approach (e.g. implement a new protocol) or a social approach (how likely are people to become a victim), this project intends to develop a combined socio-technical approach. This approach includes establishing a theoretical framework and putting phishing in the context of this framework.
 
 ## Publications
+
+Lastdrager, E.E.H. and Hartel, P.H. and Junger, M. (2015)
+[Apate: Anti-Phishing Analysing and Triaging Environment  (Poster)](http://www.ieee-security.org/TC/SP2015/posters/paper_58.pdf).
+In: 36th IEEE Symposium on Security and Privacy, 18-21 May 2015, San Jose, California, USA.
+IEEE Computer Society.
 
 Lastdrager, E.E.H. (2014) 
 [Achieving a Consensual Definition of Phishing Based on a Systematic Review of the Literature](http://www.crimesciencejournal.com/content/3/1/9).
