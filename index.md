@@ -4,16 +4,13 @@ layout: default
 
 <div style="background-image: url('elmer.jpg'); height: 300px; width: 200px; float:right; margin-left: 10px; margin-bottom: 10px; margin-right: 10px; border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius: 5px;-khtml-border-radius: 5px;"> </div>
 
-Elmer Lastdrager is a PhD student at the [Services, Cyber Security and Safety](http://scs.ewi.utwente.nl/) group at the University of Twente. He is currently working in the field of cybercrime science, focussing on the prevention of phishing attacks. Elmer Lastdrager received a Bachelor of Science in Computer Science (2009) and a Master of Science in Computer Security (2011) from the University of Twente.
-
+Elmer Lastdrager is a PhD student at the [Services, Cyber Security and Safety](http://scs.ewi.utwente.nl/) group at the University of Twente. He is currently working in the field of cybercrime science, focussing on the prevention of phishing attacks. Elmer Lastdrager received a Bachelor of Science in Computer Science (2009) and a Master of Science in Computer Security (2011) from the University of Twente. While finishing his PhD thesis, he works as a freelance information security consultant.
 
 ## Contact Information
 
-Room:	Zilverling 4047
+Phone:	+31 85 303 42 49
 
-Phone:	+31 53 489 4281
-
-Email:	[e.e.h.lastdrager (mail) utwente.nl](mailto:e.e.h.lastdrager (mail) utwente.nl)
+Email:	[elmer (mail) lastdrager.com](mailto:elmer (mail) lastdrager.com)
 
 PGP key:	[Download](pgpkey.asc)
 
@@ -28,8 +25,13 @@ The aim of the project is to identify characteristics of victims of phishing att
 
 ## Publications
 
+Lastdrager, E.E.H. and Carvajal Gallardo, I. and Hartel, P.H. and Junger, M. (2017)
+[How Effective is Anti-Phishing Training for Children?](https://www.usenix.org/conference/soups2017/technical-sessions/presentation/lastdrager).
+In: Thirteenth Symposium on Usable Privacy and Security (SOUPS 2017), 12-14 July 2017, Santa Clara, California, USA.
+USENIX Association.
+
 Lastdrager, E.E.H. and Hartel, P.H. and Junger, M. (2015)
-[Apate: Anti-Phishing Analysing and Triaging Environment  (Poster)](http://www.ieee-security.org/TC/SP2015/posters/paper_58.pdf).
+[Apate: Anti-Phishing Analysing and Triaging Environment (Poster)](http://www.ieee-security.org/TC/SP2015/posters/paper_58.pdf).
 In: 36th IEEE Symposium on Security and Privacy, 18-21 May 2015, San Jose, California, USA.
 IEEE Computer Society.
 
@@ -66,9 +68,4 @@ Lecture Notes in Computer Science 5733.
 Springer Verlag.
 ISSN 0302-9743
 ISBN 978-3-642-03699-6
-
-
-
-
-
 
