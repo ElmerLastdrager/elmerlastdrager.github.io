@@ -28,7 +28,7 @@ The aim of the project is to identify characteristics of victims of phishing att
 Lastdrager, E.E.H. and Carvajal Gallardo, I. and Hartel, P.H. and Junger, M. (2017)
 [How Effective is Anti-Phishing Training for Children?](https://www.usenix.org/conference/soups2017/technical-sessions/presentation/lastdrager).
 In: Thirteenth Symposium on Usable Privacy and Security (SOUPS 2017), 12-14 July 2017, Santa Clara, California, USA.
-USENIX Association.
+USENIX Association. *** Distinguished paper award ***
 
 Lastdrager, E.E.H. and Hartel, P.H. and Junger, M. (2015)
 [Apate: Anti-Phishing Analysing and Triaging Environment (Poster)](http://www.ieee-security.org/TC/SP2015/posters/paper_58.pdf).
