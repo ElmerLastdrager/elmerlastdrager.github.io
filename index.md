@@ -41,7 +41,7 @@ DOI 10.1186/s40163-014-0009-y.
 ISBN 978-0-7695-5065-7
 
 Lastdrager, E.E.H. (2011)
-[Securing Patient Information in Medical Databases](http://eprints.eemcs.utwente.nl/20454/).
+[Securing Patient Information in Medical Databases](http://essay.utwente.nl/61035/1/MSc_E_Lastdrager_DIES_CTIT.pdf).
 Master's thesis, University of Twente.
 
 Lastdrager, E.E.H. and Pras, A. (2009)
