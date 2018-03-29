@@ -1,7 +1,7 @@
 # Site settings
-title: Elmer Lastdrager (University of Twente)
+title: Elmer Lastdrager (SIDN Labs)
 tag_text: Elmer Lastdrager
-description: Elmer Lastdrager is a PhD student at the University of Twente specialised in Phishing.
+description: Elmer Lastdrager is a Research Engineer at SIDN Labs, specialised in phishing and IoT.
 
 # Build settings
 markdown: kramdown
