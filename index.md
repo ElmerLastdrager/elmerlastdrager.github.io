@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="background-image: url('elmer.jpg'); height: 300px; width: 200px; float:right; margin-left: 10px; margin-bottom: 10px; margin-right: 10px; border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius: 5px;-khtml-border-radius: 5px;"> </div>
+<div style="background-image: url('elmer-website.jpg'); height: 300px; width: 200px; float:right; margin-left: 10px; margin-bottom: 10px; margin-right: 10px; border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius: 5px;-khtml-border-radius: 5px;"> </div>
 Elmer Lastdrager works as a Research Engineer for [SIDN Labs](https://www.sidnlabs.nl), focussing on security and privacy in home networks that contain one or more Internet of Things devices.
 Prior to that, he was a PhD student at the [Services, Cyber Security and Safety](http://scs.ewi.utwente.nl/) group at the University of Twente, working in the field of cybercrime science, focussing on the prevention of phishing attacks. Elmer Lastdrager received a Bachelor of Science in Computer Science (2009) and a Master of Science in Computer Security (2011) from the University of Twente.
 
