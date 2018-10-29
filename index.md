@@ -15,7 +15,7 @@ Email:	[elmer.lastdrager (mail) sidn.nl](mailto:elmer.lastdrager (mail) sidn.nl)
 
 PGP key:	[Download](pgpkey.asc)
 
-PGP fingerprint: 479A 9A14 EF96 B639 492C &nbsp; 415D 9068 4E16 542D BBBE
+PGP fingerprint: 6038 F3DC 17DB 49E8 F7E5 &nbsp; 73C6 CFB8 426D 0E54 D20F
 
 ## Publications
 
