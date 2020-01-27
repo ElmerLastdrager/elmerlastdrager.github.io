@@ -19,6 +19,12 @@ PGP fingerprint: 6038 F3DC 17DB 49E8 F7E5 &nbsp; 73C6 CFB8 426D 0E54 D20F
 
 ## Publications
 
+Lastdrager, E.E.H. and Hesselman, C.E.W. and Jansen, J. and Davids, M.
+[Protecting Home Networks From Insecure IoT Devices](https://www.sidnlabs.nl/downloads/7FokYsWdEqs3rC3I9d0xOb/89b5f986185bb15d4e57bd22824c882f/Protecting_Home_Networks_From_Insecure_IoT_Devices.pdf).
+Proceedings of the 2020 IEEE/IFIP Network Operations and
+Management Symposium (NOMS 2020). *To appear.* Bugapest, Hungary,
+20-24 April 2020.
+
 Lastdrager, E.E.H. (2018) [From Fishing to Phishing](https://doi.org/10.3990/1.9789036544795).
 PhD thesis. Enschede, the Netherlands.
 ISBN 978-90-365-4479-5.
