@@ -42,7 +42,7 @@ In: 36th IEEE Symposium on Security and Privacy, 18-21 May 2015, San Jose, Calif
 IEEE Computer Society.
 
 Lastdrager, E.E.H. (2014) 
-[Achieving a Consensual Definition of Phishing Based on a Systematic Review of the Literature](http://www.crimesciencejournal.com/content/3/1/9).
+[Achieving a Consensual Definition of Phishing Based on a Systematic Review of the Literature](https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-014-0009-y).
 Crime Science, 3. 9:1-9:16.
 DOI 10.1186/s40163-014-0009-y.
 ISSN 2193-7680.
