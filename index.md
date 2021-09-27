@@ -19,10 +19,17 @@ PGP fingerprint: 6038 F3DC 17DB 49E8 F7E5 &nbsp; 73C6 CFB8 426D 0E54 D20F
 
 ## Publications
 
+Noroozian, A. and Turcios Rodriguez, E. and Lastdrager, E. and Kasama, T. and van Eeten, M. and Ganán C.H.
+[Can ISPs Help Mitigate IoT Malware? A Longitudinal Study of Broadband ISP
+Security Efforts](https://anoroozian.nl/publications/pdf/Noroozian%20et%20al.%20-%202021%20-%20Can%20ISPs%20Help%20Mitigate%20IoT%20Malware%20A%20Longitudinal%20Study%20of%20Broadband%20ISP%20Security%20Efforts.pdf).
+Proceedings of the 2021 IEEE
+European Symposium on Security and Privacy (EuroS&P).
+Virtual event, 6-10 September 2021.
+
 Lastdrager, E.E.H. and Hesselman, C.E.W. and Jansen, J. and Davids, M.
 [Protecting Home Networks From Insecure IoT Devices](https://www.sidnlabs.nl/downloads/7FokYsWdEqs3rC3I9d0xOb/89b5f986185bb15d4e57bd22824c882f/Protecting_Home_Networks_From_Insecure_IoT_Devices.pdf).
 Proceedings of the 2020 IEEE/IFIP Network Operations and
-Management Symposium (NOMS 2020). *To appear.* Bugapest, Hungary,
+Management Symposium (NOMS 2020). Bugapest, Hungary,
 20-24 April 2020.
 
 Lastdrager, E.E.H. (2018) [From Fishing to Phishing](https://doi.org/10.3990/1.9789036544795).
