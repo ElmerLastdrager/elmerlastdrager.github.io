@@ -17,6 +17,8 @@ PGP key:	[Download](pgpkey.asc)
 
 PGP fingerprint: 6038 F3DC 17DB 49E8 F7E5 &nbsp; 73C6 CFB8 426D 0E54 D20F
 
+Social: <a rel="me" href="https://twitter.com/elmerlastdrager">Twitter</a> and <a rel="me" href="https://c.im/@elmer">Mastodon</a>
+
 ## Publications
 
 Noroozian, A. and Turcios Rodriguez, E. and Lastdrager, E. and Kasama, T. and van Eeten, M. and Ganán C.H.
