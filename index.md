@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="background-image: url('elmer-website.jpg'); height: 300px; width: 200px; float:right; margin-left: 10px; margin-bottom: 10px; margin-right: 10px; border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius: 5px;-khtml-border-radius: 5px;"> </div>
+<div style="background-image: url('elmer-website.jpg'); height: 300px; width: 300px; float:right; margin-left: 10px; margin-bottom: 10px; margin-right: 10px; border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius: 5px;-khtml-border-radius: 5px;"> </div>
 Dr.ir. Elmer Lastdrager works as a Research Engineer for [SIDN Labs](https://www.sidnlabs.nl), looking at the challenges in the application of [post-quantum cryptography for the DNS](https://www.sidnlabs.nl/en/news-and-blogs/a-quantum-safe-cryptography-dnssec-testbed).
 Previously he worked on the security and privacy of the Internet of Things.
 Prior to working at SIDN Labs, he worked at the [Services, Cyber Security and Safety](http://scs.ewi.utwente.nl/) group at the University of Twente, working in the field of cybercrime science, focussing on the prevention of phishing attacks.
