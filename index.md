@@ -22,6 +22,13 @@ Social: <a rel="me" href="https://twitter.com/elmerlastdrager">Twitter</a>, <a r
 
 ## Publications
 
+Abstract: “A testbed to evaluate quantum-safe cryptography in DNSSEC”, The DINR 2024 Virtual Workshop, April 2024
+
+Schutijser, C. and Lastdrager, E. and Koning, R. and Hesselman, C.
+[A testbed to evaluate quantum-safe cryptography in DNSSEC](https://ant.isi.edu/events/dinr2024/P/p31.pdf)
+DNS and Internet Naming Research Directions 2024 Workshop.
+Virtual event, 4 april 2024.
+
 Noroozian, A. and Turcios Rodriguez, E. and Lastdrager, E. and Kasama, T. and van Eeten, M. and Ganán C.H.
 [Can ISPs Help Mitigate IoT Malware? A Longitudinal Study of Broadband ISP
 Security Efforts](https://anoroozian.nl/publications/pdf/Noroozian%20et%20al.%20-%202021%20-%20Can%20ISPs%20Help%20Mitigate%20IoT%20Malware%20A%20Longitudinal%20Study%20of%20Broadband%20ISP%20Security%20Efforts.pdf).
