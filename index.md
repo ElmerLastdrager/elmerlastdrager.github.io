@@ -24,10 +24,20 @@ Social: <a rel="me" href="https://twitter.com/elmerlastdrager">Twitter</a>, <a r
 
 Abstract: “A testbed to evaluate quantum-safe cryptography in DNSSEC”, The DINR 2024 Virtual Workshop, April 2024
 
+G. Fabrizio, R. Koning, E. Lastdrager, C. Schutijser, A. Sperotto, R. van Rijswijk-Deij
+[PQC for DNSSEC: a format size analysis on Falcon signatures](https://www.sidnlabs.nl/downloads/6zaaeL9N0zouNMpuIXZI1A/135b430cef9f481c6aa0612a7d2b743b/falcon.pdf)
+ACM/IRTF Applied Networking Research Workshop 2025 (ANRW '25).
+Madrid, Spain, 22 July 2025.
+
+Schutijser, C. and Lastdrager, E. and Koning, R. and Hesselman, C.
+[Evaluating Post-Quantum Cryptography in DNSSEC Signing for Top-Level Domain Operators](https://www.sidnlabs.nl/downloads/1dhFbUOVFLvHC0Zsfj9C1p/e1228adb6943353d052b59294456df77/tma2025-pqc.pdf)
+IEEE/IFIP Network Traffic Measurement and Analysis Conference (TMA 2025).
+Copenhagen, Denmark, 10-13 June 2025.
+
 Schutijser, C. and Lastdrager, E. and Koning, R. and Hesselman, C.
 [A testbed to evaluate quantum-safe cryptography in DNSSEC](https://ant.isi.edu/events/dinr2024/P/p31.pdf)
 DNS and Internet Naming Research Directions 2024 Workshop.
-Virtual event, 4 april 2024.
+Virtual event, 4 April 2024.
 
 Noroozian, A. and Turcios Rodriguez, E. and Lastdrager, E. and Kasama, T. and van Eeten, M. and Ganán C.H.
 [Can ISPs Help Mitigate IoT Malware? A Longitudinal Study of Broadband ISP
