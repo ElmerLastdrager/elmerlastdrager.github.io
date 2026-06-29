@@ -22,8 +22,6 @@ Social: <a rel="me" href="https://twitter.com/elmerlastdrager">Twitter</a>, <a r
 
 ## Publications
 
-Abstract: “A testbed to evaluate quantum-safe cryptography in DNSSEC”, The DINR 2024 Virtual Workshop, April 2024
-
 G. Fabrizio, R. Koning, E. Lastdrager, C. Schutijser, A. Sperotto, R. van Rijswijk-Deij
 [PQC for DNSSEC: a format size analysis on Falcon signatures](https://www.sidnlabs.nl/downloads/6zaaeL9N0zouNMpuIXZI1A/135b430cef9f481c6aa0612a7d2b743b/falcon.pdf)
 ACM/IRTF Applied Networking Research Workshop 2025 (ANRW '25).
